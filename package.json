@@ -1,0 +1,26 @@
+{
+  "name": "no_op",
+  "version": "1.0.0",
+  "description": "A Node.js port of @mendel's \"nO_op\" Ruby gem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/searls/nO_op.js.git"
+  },
+  "keywords": [
+    "O_o",
+    "o_O",
+    "O.o",
+    "o.O",
+    "noop"
+  ],
+  "author": "Justin Searls <searls@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/searls/nO_op.js/issues"
+  },
+  "homepage": "https://github.com/searls/nO_op.js#readme"
+}
