@@ -6,7 +6,20 @@ This library offers a lightweight to render judgment upon other people's code
 without resorting to actually doing the work to improve things or communicate
 productively with other humans.
 
-Examples:
+To get started, just:
+
+```
+$ npm i --save no_op
+```
+
+And then, literally anywhere in your code (don't worry about assignemnt, the
+library makes sure to do everything globally):
+
+``` javascript
+require('no_op')
+```
+
+## Examples
 
 ``` javascript
 add = function(a, b) { return a + b }
