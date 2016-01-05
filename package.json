@@ -4,7 +4,7 @@
   "description": "A Node.js port of @mendel's \"nO_op\" Ruby gem",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./test.js"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
     "noop"
   ],
   "author": "Justin Searls <searls@gmail.com>",
-  "license": "MIT",
+  "license": "GPL",
   "bugs": {
     "url": "https://github.com/searls/nO_op.js/issues"
   },
