@@ -12,7 +12,7 @@ To get started, just:
 $ npm i --save no_op
 ```
 
-And then, literally anywhere in your code (don't worry about assignemnt, the
+And then, literally anywhere in your code (don't worry about assignment, the
 library makes sure to do everything globally):
 
 ``` javascript
