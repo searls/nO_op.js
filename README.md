@@ -2,7 +2,7 @@
 
 A Node.js port of [@ymendel](https://github.com/ymendel)'s seminal Ruby gem, [nO_op](https://github.com/ymendel/nO_op).
 
-This library offers a lightweight to render judgment upon other people's code
+This library offers a lightweight way to render judgment upon other people's code
 without resorting to actually doing the work to improve things or communicate
 productively with other humans.
 
